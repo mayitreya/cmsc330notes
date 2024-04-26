@@ -433,5 +433,5 @@ fn calc_len( s: &String ) -> usize {
 
 ## Lifetimes
 ```rust
-// TODO
+// Not on the quiz so I didn't do it 
 ```
