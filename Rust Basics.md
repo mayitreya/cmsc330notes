@@ -92,7 +92,7 @@ Notice that
 }
 ```
 Notice a few things
-1. We've forced both `x` and `y` to be unsigned 16-bit integers (they should be consistent!)
+1. We've forced both `x` and `y` to be signed 16-bit integers (they should be consistent!)
 2. As stated in a previous section, we've said that types are inferred by default, which means that the `i16` wasn't even necessary
 
 ## Conditionals
